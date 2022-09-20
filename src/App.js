@@ -7,6 +7,7 @@ import About from './componants/About';
 import Info from './componants/Info'
 import Footer from './componants/Footer';
 import Slider  from './componants/Slider';
+// import Project from './componants/Project'
 function App() {
   return (
     

@@ -75,7 +75,13 @@ li{
   margin-left: 40px;
   /* height: 290px; */
 }
-
+.about-img:hover {
+  transform: scale(1.05);
+  
+}
+.h3mo{
+  display: none;
+}
 @media only screen and (max-width: 950px) {
   .about-container {
     /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqR2C9cEeirKgCtZExthLGCT9a9Q-6EjlWYs4djHWYONsEeWAvCffepv0vzwC2BYeTfA&usqp=CAU"); */
@@ -120,5 +126,15 @@ li{
     width: 350px;
     margin-left: -130px;
     color: black;
+  }
+  .edu{
+    display: none;
+  }
+  .h3pc{
+    display: none;
+  }
+  .h3mo{
+    display: block;
+    text-align: center;
   }
 }

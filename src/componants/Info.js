@@ -50,7 +50,7 @@ function Info() {
         </div>
         <div className="info13">
       <div>
-      <a href="/"><button>SunTour</button></a>
+      <a href="sun-tour-o4s2qw500-seni7.vercel.app"><button>SunTour</button></a>
       </div>
         <div className="infoimg">
         <a href="https://github.com/seni7/Tourism-website"><img src={img} alt=''/></a>  

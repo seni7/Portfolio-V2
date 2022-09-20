@@ -19,7 +19,7 @@
   
   .cover-container > h2 {
     color: white;
-    font-size: 100px;
+    font-size: 80px;
     margin-top: 15%;
   }
   
@@ -34,7 +34,8 @@
   
   @media screen and (max-width: 950px) {
     .cover-container > h2 {
-      font-size: 70px;
+      padding-top: 30%;
+      font-size: 40px;
       text-align: center;
     }
   

@@ -45,15 +45,19 @@
     list-style: none;
     text-align: left;
     color: rgb(252, 249, 249);
-    background-color: rgba(73, 142, 202, 0.182);
     border-radius: 20px;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    /* box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; */
     margin-bottom: 5px;
-    font-size:25px;
+    font-size:22px;
     padding-left: 0px;
   }
   .lists{
    margin-left: 150px;
+   padding-left: 22px;
+   padding-right: 12px;
+   padding-bottom: 12px;
+   background-color: #0c1224d9;
+   box-shadow: 10px 5px 5px rgb(12, 100, 80);
   }
   .skill{
     padding: 0;

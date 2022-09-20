@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="col-lg-6" data-aos="fade-up" data-aos-duration='225'  >
               <div className="progress">
                 <span className="skill">
-                  Html <i className="val">100%</i>
+                  Html <i className="val"></i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -35,7 +35,7 @@ const Footer = () => {
               
               <div className="progress">
                 <span class="skill">
-                  Css <i className="val">95%</i>
+                  Css <i className="val"></i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -50,7 +50,7 @@ const Footer = () => {
               </div>             
               <div className="progress">
                 <span className="skill">
-                  JS 'React' <i class="val">65%</i>
+                  JS 'React' <i class="val"></i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -66,7 +66,7 @@ const Footer = () => {
               
               <div className="progress">
                 <span className="skill">
-                  Express'Nodejs' <i class="val">65%</i>
+                  Express'Nodejs' <i class="val"></i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -81,7 +81,7 @@ const Footer = () => {
               </div>
               <div className="progress">
                 <span className="skill">
-                  Php <i className="val">50%</i>
+                  Php <i className="val"></i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -97,7 +97,7 @@ const Footer = () => {
               
               <div className="progress">
                 <span className="skill">
-                  WordPress/Cms <i class="val">80%</i>
+                  WordPress/Cms <i class="val">  </i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -124,10 +124,10 @@ const Footer = () => {
         </div>
       <div className="resume">
         <div>
-        <h5>Dawlode Resume</h5>
+        <h5>Download Resume</h5>
         </div>
         <div>
-        <a  href="https://drive.google.com/file/d/1YUXfPmed6VayOEbf7rwM--ihG7FP6mVg/view?usp=sharing" download>
+        <a  href="../componants/Senait Alemayehu Ferede(Resume)3.pdf" download>
         <button>
           <img src="https://www.freeiconspng.com/uploads/resume-icon-png-2.png" alt=" " />
         </button>
